@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/njsPracRep.iml" filepath="$PROJECT_DIR$/.idea/njsPracRep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cartsfsapp.iml" filepath="$PROJECT_DIR$/.idea/cartsfsapp.iml" />
     </modules>
   </component>
 </project>
